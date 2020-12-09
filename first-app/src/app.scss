@@ -1,5 +1,12 @@
-$color: yellow;
+$color: red;
 
 h1{
   color: $color;
+}
+p{
+    color: $color;
+}
+
+button{
+    color: $color;
 }

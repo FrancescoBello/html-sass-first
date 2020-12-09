@@ -115,8 +115,8 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/francescobello/Desktop/BelloFrancesco/first-app/src/app.js */"./src/app.js");
-module.exports = __webpack_require__(/*! /Users/francescobello/Desktop/BelloFrancesco/first-app/src/app.scss */"./src/app.scss");
+__webpack_require__(/*! /Users/francescobello/Desktop/BelloFrancesco/html-sass-first/first-app/src/app.js */"./src/app.js");
+module.exports = __webpack_require__(/*! /Users/francescobello/Desktop/BelloFrancesco/html-sass-first/first-app/src/app.scss */"./src/app.scss");
 
 
 /***/ })
